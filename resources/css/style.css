@@ -1,0 +1,37 @@
+#Discover {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  align: centered;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h3 {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+#Personal{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  align: centered;
+}
+
+#paragraph{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+#copyright{
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
